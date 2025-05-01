@@ -140,6 +140,8 @@ This is a list of known Mastodon instances on which Tangerine UI has been instal
 | [e5n.cc](https://e5n.cc)                                   | 1+             | the only theme      | Yes (Lagoon)            |
 | [erica.moe](https://erica.moe)                             | 5+             | an optional theme   | Yes (Purple variant)    |
 | [henshaw.social](https://henshaw.social)                   | 1+             | the only theme      | Yes (Tangerine variant) |
+| [zinnia.social](https://zinnia.social)                     | 1+             | an optional theme   | Yes (Tangerine variant) |
+
 
 ## Compatibility
 ✅ [**Tangerine UI** (v2._x_)](https://github.com/nileane/TangerineUI-for-Mastodon/releases/latest) **is compatible with instances running Mastodon 4.3 and newer.**[^3]
